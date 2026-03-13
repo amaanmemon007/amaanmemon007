@@ -1,16 +1,30 @@
-## Hi there 👋
+# Amaan Memon
 
-<!--
-**amaanmemon007/amaanmemon007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer based in Ahmedabad, Gujarat, India.
 
-Here are some ideas to get you started:
+I build modern web applications, e-commerce platforms and automation systems using technologies like React.js, Next.js, Node.js and Shopify.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Full Stack Developer at The Second Wheel
+- Previously worked at Jilani Tech
+- Almost 2 years of professional experience
+- Built 30+ web, e-commerce and automation projects
+
+## Skills
+
+React.js  
+Next.js  
+Node.js  
+Shopify Development  
+WordPress  
+AI Integration  
+Payment Gateway Integration  
+
+## Portfolio
+
+https://www.amaanmemon.in
+
+## Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/amaanmemon07
